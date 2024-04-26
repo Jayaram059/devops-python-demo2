@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: demo-app
-          image: ghcr.io/benc-uk/python-demoapp:latest
+          image: jayaram059/python-demoapp:v2
           ports:
             - containerPort: 5000
