@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: devopsassignment-2-app-deployment
+  name: devopsassignment-2-app-blue-deployment
 spec:
   replicas: 3
   selector:
