@@ -30,7 +30,7 @@ function initCharts() {
       //width: 1200, height: 600,
       redFrom: 90, redTo: 100,
       yellowFrom: 75, yellowTo: 90,
-      greenFrom: 0, greenTo: 75,
+      blueFrom: 0, blueTo: 75,
       minorTicks: 5, animation:{ duration: 950, easing: 'inAndOut' }
    };
    options_io = {
